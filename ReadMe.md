@@ -18,6 +18,8 @@
 
 Hopefully you will see the site up and running. 
 
+If not, you can see the demo.mp4 we have made showing some of the functionality our site offers.
+
 # Functionalities implemented
 
 ## ADMIN Superuser
